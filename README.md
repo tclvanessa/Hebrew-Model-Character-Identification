@@ -1,6 +1,6 @@
 # Hebrew Model Character Identification Project
 ### Overview
-This project aims to develop a machine learning model for identifying Hebrew characters in images. The model is designed to take images of Hebrew characters as input and classify them into their respective character classes. The project includes data preprocessing, model architecture design, training, and evaluation.
+This project, developed by a team of four, aims to create a machine learning model for identifying Hebrew characters in images. The model is designed to take images of Hebrew characters as input and classify them into their respective character classes. The project includes data preprocessing, model architecture design, training, and evaluation.
 
 ### Project Structure
 Dataset: The dataset consists of images containing Hebrew characters. It is divided into training and testing sets.
@@ -14,10 +14,10 @@ Training: The model is trained using the training dataset. The training process 
 Evaluation: Model evaluation is performed using the testing dataset. Metrics such as accuracy are calculated to assess the model's performance in identifying Hebrew characters.
 
 ### Dependencies
-PyTorch: Used for building and training neural networks.
-torchvision: Provides tools for working with image data.
-PIL (Python Imaging Library): Used for image processing.
-matplotlib: Used for data visualization.
+- PyTorch: Used for building and training neural networks.
+- torchvision: Provides tools for working with image data.
+- PIL (Python Imaging Library): Used for image processing.
+- matplotlib: Used for data visualization.
 
 ### Usage
 1. Data Preparation: Organize the dataset into appropriate training and testing folders.
